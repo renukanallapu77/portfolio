@@ -1,4 +1,4 @@
-# Hi 👋, I'm [YOUR NAME] | 24MG1A4209
+# Hi 👋, I'm Renuka | 24MG1A4209
 
 ### 🚀 CSE Student @ SVIST | Flutter & AI Developer
 
